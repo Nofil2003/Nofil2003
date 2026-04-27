@@ -9,11 +9,11 @@ Welcome — this README automatically shows a snapshot of my GitHub activity and
 <!-- STATS_START -->
 | Metric | Value |
 |---|---|
-| Commits (authored) | 48 |
-| PRs opened | 1 |
-| PRs merged | 1 |
+| Commits (authored) | 50 |
+| PRs opened | 2 |
+| PRs merged | 2 |
 | Issues opened | 0 |
-| Push events (recent) | 20 |
+| Push events (recent) | 21 |
 | Followers | 9 |
 | Top languages | C++ (71153 bytes), Lua (61717 bytes), Jupyter Notebook (21951 bytes), Python (6485 bytes), Makefile (524 bytes) |
 
