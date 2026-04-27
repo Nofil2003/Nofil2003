@@ -3,16 +3,16 @@
 Welcome — this README automatically shows a snapshot of my GitHub activity and language breakdown.
 
 <!-- STATS_START -->
-<!-- The stats block below is managed automatically by .github/workflows/update-stats.yml -->
 | Metric | Value |
 |---|---|
-| Commits (authored) | 0 |
-| PRs opened | 0 |
-| PRs merged | 0 |
+| Commits (authored) | 48 |
+| PRs opened | 1 |
+| PRs merged | 1 |
 | Issues opened | 0 |
-| Push events (recent) | 0 |
-| Followers | 0 |
-| Top languages | None |
+| Push events (recent) | 20 |
+| Followers | 9 |
+| Top languages | C++ (71153 bytes), Lua (61717 bytes), Jupyter Notebook (21951 bytes), Python (6485 bytes), Makefile (524 bytes) |
+
 <!-- STATS_END -->
 
 ---
