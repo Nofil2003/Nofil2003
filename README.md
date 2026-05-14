@@ -3,3 +3,4 @@
 
 
 # chronically online
+vercel website (cuz i'm poor and it's convenient) : https://quiet-desk-six.vercel.app 
