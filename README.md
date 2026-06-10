@@ -3,7 +3,7 @@
 
 
 # chronically online
-vercel website (cuz i'm poor and it's convenient) : https://quiet-desk-six.vercel.app 
+vercel website (scrapping soon) : https://quiet-desk-six.vercel.app 
 
 <p align="center">
   <img src="https://api.boot.dev/v1/users/public/6d95dd92-3af5-4258-b2c1-eaabe66e08d1/thumbnail" >
